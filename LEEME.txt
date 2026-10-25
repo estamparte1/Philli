@@ -1,0 +1,16 @@
+PHILLIS CONTROL DE CAJA
+
+1. Descomprime el ZIP.
+2. Sube los 5 archivos de la carpeta a la raíz de un repositorio GitHub.
+3. En Settings > Pages selecciona Deploy from a branch, main, / (root).
+4. Abre la dirección https://TU-USUARIO.github.io/TU-REPOSITORIO/ desde Safari en iPhone o Chrome en Android.
+5. iPhone: Compartir > Agregar a pantalla de inicio. Android: menú > Instalar aplicación / Añadir a pantalla de inicio.
+6. La app guarda datos localmente en ese navegador/dispositivo; no hay servidor ni sincronización. Evita navegación privada.
+7. En Ajustes carga tu logo original. El logo incluido es TEMPORAL porque el archivo original no está adjunto aquí.
+8. Usa Ajustes > Descargar respaldo JSON cada semana y guárdalo fuera del teléfono. Puedes restaurarlo en el mismo u otro dispositivo.
+9. En Resultados elige el mes y descarga un .xlsx actualizado. No es posible sobrescribir automáticamente archivos externos en iOS desde una web app local.
+10. IMPORTANTE: el cálculo de caja asume que las compras y gastos se pagaron con dinero del negocio y que el efectivo contado incluye el fondo remanente. Los pagos con tarjeta y transferencia se suman a la conciliación.
+11. El resultado es un flujo operativo simple (ventas menos compras menos gastos), no utilidad contable o fiscal. No considera inventarios, impuestos ni costos diferidos.
+12. Para que funcione sin conexión, abre la app una vez con internet después de publicarla y permite que se almacene en caché.
+
+ACTUALIZACION: Logo original de Philly’s incorporado. Reporte mensual visible con fecha, día, ventas, compras, gastos y utilidad. Para actualizar GitHub Pages, reemplaza los archivos existentes conservando la misma URL. No borres los datos del sitio en el navegador.
